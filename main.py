@@ -9,6 +9,7 @@ green = (0,255,0)
 blue =(0,0,255)
 WIDTH  = 600
 HEIGHT = 400
+#origin was 400, modified by zhaoyang
 FPS = 60
 random_color = (random.randrange(0,255),random.randrange(0,255),random.randrange(0,255))
 # constants for font and 
